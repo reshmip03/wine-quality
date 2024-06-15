@@ -1,4 +1,4 @@
-# wine-quality
+#Exploratory Data Analysis (EDA)
 
 ## Introduction to Exploratory Data Analysis (EDA) of Wine Quality Dataset
 
